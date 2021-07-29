@@ -1,4 +1,12 @@
-## - 👋 Bem vindo! Meu nome é Bruno Polycarpo tenho 30 anos, sou casado e pai de pet.
+## - 👋 Bem vindo! Meu nome é Bruno Polycarpo.
+
+* 🔋  30 anos 
+* 🤓 Estudante Developer Front End
+* ❤️ Casado
+* 🐶 Pai de pet
+* 🎮 Gamer
+
+
 
 <div>
   <a href="https://github.com/brunopolyc">
@@ -7,7 +15,7 @@
 </div>
 <hr>
  
-  ### Linguagens:
+  #### Linguagens:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Bru-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
