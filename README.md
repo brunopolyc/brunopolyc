@@ -10,7 +10,7 @@
   
   <a href="https://github.com/brunopolyc"></a>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brunopolyc&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopolyc&layout=compact&langs_count=16&theme=react"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopolyc&layout=compact&langs_count=16&theme=react"/>
   
  </div>
 
