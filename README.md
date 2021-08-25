@@ -9,8 +9,8 @@
 <div>
   
   <a href="https://github.com/brunopolyc"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunopolyc&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopolyc&layout=compact&langs_count=16&theme=react"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunopolyc&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopolyc&layout=compact&langs_count=16&theme=react"/>
   
  </div>
 
@@ -37,5 +37,6 @@
   <a href= "https://www.linkedin.com/in/bruno-polycarpo-7a12153b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href= "https://www.facebook.com/bruno.polycarpo.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" targuet="_blank"></a>
 
-    ![Snake animation](https://github.com/brunopolyc/brunopolyc/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/brunopolyc/brunopolyc/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
