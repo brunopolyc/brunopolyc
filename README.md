@@ -1,6 +1,6 @@
 ## - 👋 Bem vindo! Meu nome é Bruno Polycarpo.
 
-* 🔋  33 anos 
+* 🔋  34 anos 
 * 🤓 Estudante Developer 
 * ❤️ Casado
 * 🐶 Pai de pet's e do Nicolas
